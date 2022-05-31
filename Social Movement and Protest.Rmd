@@ -1,0 +1,87 @@
+---
+output: pdf_document
+bibliography: references.bib
+---
+
+# Social Movement and Protest - Fall 2022
+
+
+
+### Course Description
+
+This class will help to explore scholarship from comparative politics, international relations, and political sociology that focuses on the development of social movements and the outcomes that they produce. As we connect history, theory, and scholarship to contemporary politics, key questions will include: How do social movements mobilize under different regime types? Does state repression deter contentious collective action? When do protests lead to political change? By the end of this course, you should have a good understanding of the major theoretical debates about social movements and protests and cursory knowledge of several different social movements and protests in several countries such as the United States, China, Russia, Ukraine, Egypt, Turkey, Mexico, etc.
+
+# August 25 - Introductions, Review of Course Schedule and Policies
+
+
+# September 1 - Defining Social Movement(s)
+
+- Mario Diani. 1992. “The Concept of Social Movement.” The Sociological Review 40(1): 1-25.
+
+- Tilly, Charles. 1994. “Social Movements as Historically Specific Clusters of Political Performances." Berkeley Journal of Sociology Vol. 38 (1993-1994), pp. 1-30
+
+- David Snow, Sarah Soule and Hanspeter Kriesi. 2004. “Mapping the Terrain.” Pp. 3-16 in D.
+Snow, S. Soule and H. Kriesi (eds.) The Blackwell Companion to Social Movements. Oxford:
+Blackwell.
+
+# September 8 - Building Capacity
+
+- John D. McCarthy and Mayer Zald. 1977. “Resource Mobilization and Social Movements: A
+Partial Theory.” American Journal of Sociology 82(6): 1212-1241.
+
+- Merlyna Lim. 2012. “Clicks, Cabs, and Coffee Houses: Social Media and Oppositional
+Movements in Egypt, 2004–2011,” Journal of Communication 62(2): 231-248.
+
+
+# September 15 - Political Opportunity
+
+- Herbert Kitschelt. 1986. “Political Opportunity Structure and Political Protest: Anti-Nuclear
+Movements in Four Democracies.” British Journal of Political Science 16: 57-85.
+
+- Meyer, D. S. 2004. "Protest and political opportunities." Annual Review of Sociology, 30, 125-145.
+
+# September 22 - When do protests/movements emerge?
+
+- Doug McAdam, John D. McCarthy and Mayer N. Zald. "Introduction: Opportunities, mobilizing structures, and framing processes – toward a synthetic, comparative perspective on social movements." Comparative Perspective on Social Movements, (In Mayer, N. Zald, et al. (dir.). Comparative Perspectives on Social Movements: Political Opportunities, Mobilizing Structures, and Cultural Framings. Cambridge University Press, 1996.)
+
+- 
+
+
+# September 29 - Why do people participate? 
+
+- Kuran, Timur., 1991. "Now out of never: The element of surprise in the East European revolution of 1989.", World politics, 44(1), pp.7-48.
+
+- 
+
+# October 6
+
+
+# October 13
+
+
+# October 20 
+
+Fall Break (October 20-23)
+
+# October 27
+
+
+# November 3
+
+
+# November 10
+
+
+# November 17
+
+
+# November 24
+
+
+# December 1 
+
+
+# December 8
+
+
+
